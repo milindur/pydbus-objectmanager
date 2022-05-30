@@ -3,7 +3,7 @@ from __future__ import print_function
 
 from gi.repository import GLib
 from pydbus import SessionBus
-from pydbus_manager import Manager
+from pydbus_objectmanager import Manager
 
 # get the session bus
 bus = SessionBus()

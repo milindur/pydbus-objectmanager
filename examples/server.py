@@ -4,7 +4,7 @@
 from gi.repository import GLib
 from pydbus import SessionBus
 from pydbus.generic import signal
-from pydbus_manager import Manager
+from pydbus_objectmanager import Manager
 
 
 # child class
